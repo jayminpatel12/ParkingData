@@ -1,4 +1,4 @@
-{
+[
   "parkings": [
     {
       "id": 1,
@@ -41,4 +41,4 @@
       "isItMultiLevel": true
     }
   ]
-}
+]
