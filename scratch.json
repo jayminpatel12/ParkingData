@@ -1,0 +1,44 @@
+{
+  "parkings": [
+    {
+      "id": 1,
+      "Name": "Parking 1",
+      "lat":43.772738,
+      "long":-79.335920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": true
+    },
+    {
+      "id": 2,
+      "Name": "Parking 2",
+      "lat":43.782738,
+      "long":-79.325920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": true
+    },
+    {
+      "id": 3,
+      "Name": "Parking 3",
+      "lat":43.762738,
+      "long":-79.345920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": false
+    },
+    {
+      "id": 4,
+      "Name": "Parking 4",
+      "lat":43.712738,
+      "long":-79.335920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": false
+    },
+    {
+      "id": 5,
+      "Name": "Parking 5",
+      "lat":43.712738,
+      "long":-79.335920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": true
+    }
+  ]
+}
