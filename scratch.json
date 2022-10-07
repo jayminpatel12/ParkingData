@@ -5,7 +5,8 @@
       "lat":43.772738,
       "long":-79.335920,
       "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      "isItMultiLevel": true
+      "isItMultiLevel": true,
+      "priceperhour": 20
     },
     {
       "id": 2,
@@ -13,7 +14,8 @@
       "lat":43.782738,
       "long":-79.325920,
       "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      "isItMultiLevel": true
+      "isItMultiLevel": true,
+      "priceperhour": 21
     },
     {
       "id": 3,
@@ -21,7 +23,8 @@
       "lat":43.762738,
       "long":-79.345920,
       "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      "isItMultiLevel": false
+      "isItMultiLevel": false,
+      "priceperhour": 15
     },
     {
       "id": 4,
@@ -29,7 +32,8 @@
       "lat":43.712738,
       "long":-79.335920,
       "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      "isItMultiLevel": false
+      "isItMultiLevel": false,
+      "priceperhour": 17
     },
     {
       "id": 5,
@@ -37,6 +41,52 @@
       "lat":43.712738,
       "long":-79.335920,
       "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      "isItMultiLevel": true
+      "isItMultiLevel": true,
+      "priceperhour": 25
+    },
+     {
+      "id": 6,
+      "Name": "Parking 6",
+      "lat":43.713738,
+      "long":-79.345920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": true,
+      "priceperhour": 23
+    },
+     {
+      "id": 7,
+      "Name": "Parking 7",
+      "lat":43.712738,
+      "long":-79.335920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": true,
+      "priceperhour": 22
+    },
+     {
+      "id": 8,
+      "Name": "Parking 8",
+      "lat":43.712738,
+      "long":-79.335920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": true,
+      "priceperhour": 20
+    },
+     {
+      "id": 9,
+      "Name": "Parking 9",
+      "lat":43.711738,
+      "long":-79.325920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": false,
+      "priceperhour": 10
+    },
+     {
+      "id": 10,
+      "Name": "Parking 10",
+      "lat":43.702738,
+      "long":-79.315920,
+      "image": "https://images.unsplash.com/photo-1604275291560-55f54cec0e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "isItMultiLevel": true,
+      "priceperhour": 28
     }
 ]
